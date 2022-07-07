@@ -1,1 +1,1 @@
-This is my first
+Laboratoare din semestrul al doilea pentru OOP.
